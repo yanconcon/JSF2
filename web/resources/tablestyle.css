@@ -1,0 +1,28 @@
+.tableHeader {
+    font-family: "Trebuchet MS", Arial, Helvetica, Sans-Serif;
+    border-collapse: collapse;
+    font-size: 1.1em;
+    text-align: left;
+    padding-top: 5px;
+    padding-bottom: 4px;
+    background-color: antiquewhite;
+    color: white;
+    border: 1px solid #98bf21;
+}
+.oddTableRow {
+    border: 1px solid #98bf21;
+}
+.evenTableRow {
+    background-color: #eeeeee;
+    font-size: 1em;
+
+    padding: 3px 7px 2px 7px;
+
+    color: #000;
+
+    background-color: blanchedalmond;
+}
+
+.table {
+    border: 1px solid green;
+}
